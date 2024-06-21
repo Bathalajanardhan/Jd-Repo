@@ -1,0 +1,13 @@
+java basic code 
+
+welcome to aws devops 
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+    System.out.println("I am learning aws.");
+    System.out.println("It is awesome!");
+    System.out.println("welcome janardhan good chioce for aws devops!");
+  }
+}
+
